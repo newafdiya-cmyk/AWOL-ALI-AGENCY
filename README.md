@@ -1,1 +1,204 @@
-# AWOL-ALI-AGENCY
+<!DOCTYPE html>
+<!-- saved from url=(0040)file:///C:/Users/HP/Documents/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home | AWOL ALI AGENCY</title>
+  <link rel="stylesheet" href="./AWOL ALI AGENCY_files/styles.css">
+  <style>
+
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 2rem;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+
+    .feature {
+      background-color: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+      max-width: 300px;
+      text-align: center;
+      transition: transform 0.3s;
+    }
+
+    .feature:hover {
+      transform: translateY(-5px);
+    }
+
+    .feature h3 {
+      margin-bottom: 1rem;
+      color: #0a3d62;
+    }
+
+    .cta {
+      text-align: center;
+      margin-top: 4rem;
+      padding: 2rem;
+      background-color: #ecf0f1;
+      border-radius: 10px;
+    }
+
+    .cta h2 {
+      margin-bottom: 1rem;
+    }
+
+    .cta button {
+      margin-top: 1rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #0a3d62;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .cta button:hover {
+      background-color: #074175;
+    }
+
+    @media (max-width: 768px) {
+      .features {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+<link rel="stylesheet" href="./AWOL ALI AGENCY_files/all.min.css">
+
+</head>
+<body>
+  <header>
+    <h1> AWOL ALI AGENCY</h1>
+    <nav>
+      <a href="file:///C:/Users/HP/Documents/index.html">Home</a>
+      <a href="file:///C:/Users/HP/Documents/about1.html">About</a>
+      <a href="file:///C:/Users/HP/Documents/requirements.html">Requirements</a>
+      <a href="file:///C:/Users/HP/Documents/partner.html">Partners</a>
+      <a href="file:///C:/Users/HP/Documents/process.html">Process</a>
+      <a href="file:///C:/Users/HP/Documents/contact.html">Contact</a>
+      <a href="file:///C:/Users/HP/Documents/service.html">service</a>
+
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>We Build Careers, Not Just Jobs</h1>
+    <p>Partnering with top employers to bring you the best global opportunities.</p>
+    <a href="file:///C:/Users/HP/Documents/about1.html"><button>Learn More</button></a>
+  </section>
+
+  <section class="page">
+    <h2 style="text-align:center;">Why Do Choose You AWOL ALI AGENCY?</h2>
+    <div class="features">
+      <div class="feature">
+        <h3>Global Reach</h3>
+        <p>We connect professionals with employers across Europe, the Middle East, and beyond.</p>
+      </div>
+      <div class="feature">
+        <h3>Verified Employers</h3>
+        <p>We partner only with trusted, ethical organizations that value workforce integrity.</p>
+      </div>
+      <div class="feature">
+        <h3>Full Support</h3>
+        <p>From resume building to visa processing, we’re with you every step of the way.</p>
+      </div>
+    </div>
+  </section>
+<section class="PAGE">
+ <div class="container">
+    <h1>AWOL ALI AGENCY</h1>
+    <div class="section">
+      <div class="box">
+        <!-- Globe Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="2" y1="12" x2="22" y2="12"></line>
+          <path d="M12 2a15 15 0 0 1 0 20a15 15 0 0 1 0-20z"></path>
+        </svg>
+        <h2>Our Mission</h2>
+        <p>“To connect top talent with exceptional employers by delivering personalized, ethical, and results-driven recruitment solutions that empower businesses and careers alike.”</p>
+      </div>
+      <div class="box">
+        <!-- File-Text Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" viewBox="0 0 24 24">
+          <path d="M14 2H6a2 2 0 0 0‑2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2‑2V8z"></path>
+          <polyline points="14 2 14 8 20 8"></polyline>
+          <line x1="16" y1="13" x2="8" y2="13"></line>
+          <line x1="16" y1="17" x2="8" y2="17"></line>
+          <polyline points="10 9 9 9 8 9"></polyline>
+        </svg>
+        <h2>Our Vision</h2>
+        <p>“To be the most trusted and innovative recruitment partner globally, redefining how organizations attract talent and how individuals find meaningful work.”</p>
+      </div>
+      <div class="box">
+        <!-- Book Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" viewBox="0 0 24 24">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+          <path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5z"></path>
+        </svg>
+        <h2>Compliance &amp; Ethical Standards</h2>
+        <p>“We strictly adhere to ethical recruitment practices, ensuring fair wages, safe working conditions, and respect for workers’ rights. Our agency is committed to transparency, fairness, and professionalism in all our operations.”</p>
+      </div>
+    </div>
+  </div>
+    </section>
+
+  <section class="cta">
+    <h2>Ready to take the next step?</h2>
+    <p>Start your journey toward international employment today.</p>
+    <a href="file:///C:/Users/HP/Documents/contact.html"><button>Contact Us Now</button></a>
+  </section>
+  <div style="position:relative;overflow:hidden;"><a href="https://yandex.com/maps/org/awol_ali_travel_agency/52015872114/?utm_medium=mapframe&amp;utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Awol ali travel agency</a><a href="https://yandex.com/maps/20771/addis-ababa/category/travel_agency/184106432/?utm_medium=mapframe&amp;utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:14px;">Travel agency in Addis Ababa</a><iframe src="./AWOL ALI AGENCY_files/saved_resource.html" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
+
+  <footer>
+  <div style="text-align: center; padding: 2rem;">
+    <p style="font-size: 0.9rem; color: #555;">
+      Contact Us 
+    </p>
+
+    <h2 style="margin: 0.5rem 0; color: #0a3d62;">+2519--------</h2>
+
+    <a href="https://wa.me/+2519--------" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #506c91; color: white; border-radius: 5px; text-decoration: none; font-weight: bold;">
+      Contact us WhatsApp
+    </a>
+  <div class="contact-container">
+    
+  <div class="contact-info">
+      <i class="fas fa-map-location-dot"></i>
+      <span>LOCATION OF AWOL ALI AGENCY</span>
+    </div>
+
+    <div class="contact-info">
+      <i class="fas fa-phone-alt"></i>
+      <span>+2519--------</span>
+    </div>
+
+    <div class="contact-info">
+      <i class="fas fa-at"></i>
+      <span>-----@gmail.com</span>
+    </div>
+
+  </div>
+
+    <div style="margin-top: 1.5rem; font-size: 1.5rem; color: GREY;">
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank" style="margin: 0 10px;"><i class="fab fa-x-twitter"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-instagram"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-facebook-f"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-snapchat-ghost"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-tiktok"></i></a>
+  <a href="file:///C:/Users/HP/Documents/index.html" target="_blank"><i class="fab fa-youtube"></i></a>
+</div>
+    <p style="margin-top: 1.5rem; font-size: 0.8rem;">© 2025  AWOL ALI AGENCY. All rights reserved.</p>
+  </div>
+</footer>
+
+      
+
+
+</body></html>
